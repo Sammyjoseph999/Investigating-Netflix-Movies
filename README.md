@@ -1,5 +1,7 @@
 # Investigating Netflix movie durations
 
+> This analysis has been merged into [Are-Netflix-Movies-Getting-Shorter](https://github.com/Sammyjoseph999/Are-Netflix-Movies-Getting-Shorter), which is the maintained version. This repository is archived.
+
 An exploratory look at how the length of Netflix movies varies by genre and release year.
 
 <img src="images/preview.png" alt="Share of short-form genres by release year" width="700">
